@@ -33,7 +33,7 @@ My background in analytical chemistry means I work with real, precise, and often
 | Category | Tools & Methods |
 |---|---|
 | 🗄️ Database & Query | SQL · SQLite |
-| 📊 Spreadsheet Analysis | Excel (Pivot Tables · VLOOKUP · LINEST · Charts) |
+| 📊 Spreadsheet Analysis | Excel, Google sheets |
 | 📈 Visualisation | Power BI |
 | 🔬 Chemometrics | PLS Regression · OLS Regression · Calibration Curves · LOD/LOQ · VIP Scores |
 | 🐍 Programming | Python · pandas · scikit-learn *(beginner)* |
