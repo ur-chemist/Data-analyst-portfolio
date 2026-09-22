@@ -107,7 +107,7 @@ to the Fluopyram model.
 ### Screenshots
 
 > 📸 *Calibration curves*
-> ![Calibration Curves](Calibaration_curve.png)
+> ![Calibration Curves](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics/blob/main/images/Calibaration_Curve.png)
 
 > 📸 *PCA SCORE*
 > ![PCA-score](FINAL_fig7_PCA.png)
@@ -169,11 +169,11 @@ the data pipeline, SQL workflow, and feature interpretation.
 
 ### Screenshots
 
-> 📸 *Feature correlation heatmap — add your screenshot here*
-> ![Correlation Heatmap](screenshots/wine_correlation.png)
+> 📸 *Feature correlation heatmap*
+> ![Correlation Heatmap](https://github.com/ur-chemist/wine-quality-chemometrics/blob/main/Regression%20summary%20output%20(1).png)
 
-> 📸 *Regression results summary — add your screenshot here*
-> ![Regression Results](screenshots/wine_regression.png)
+> 📸 *Regression results summary*
+> ![Regression Results](https://github.com/ur-chemist/wine-quality-chemometrics/blob/main/Regression%20summary%20output%20(2).png)
 
 > 📸 *Random Forest feature importance — add your screenshot here*
 > ![Feature Importance](screenshots/wine_feature_importance.png)
