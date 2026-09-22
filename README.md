@@ -110,10 +110,10 @@ to the Fluopyram model.
 > ![Calibration Curves](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics/blob/main/images/Calibaration_Curve.png)
 
 > 📸 *PCA SCORE*
-> ![PCA-score](FINAL_fig7_PCA.png)
+> ![PCA-score](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics/blob/main/images/FINAL_fig7_PCA.png)
 
 > 📸 *VIP scores plot*
-> ![VIP Scores](FINAL_fig3_VIP.png)
+> ![VIP Scores](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics/blob/main/images/FINAL_fig3_VIP.png)
 
 ---
 
