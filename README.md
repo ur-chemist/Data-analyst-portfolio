@@ -106,14 +106,14 @@ to the Fluopyram model.
 
 ### Screenshots
 
-> 📸 *Calibration curves — add your screenshot here*
-> ![Calibration Curves](screenshots/uvvis_calibration.png)
+> 📸 *Calibration curves*
+> ![Calibration Curves](Calibaration_curve.png)
 
-> 📸 *PLS vs Beer-Lambert comparison plot — add your screenshot here*
-> ![PLS Comparison](screenshots/uvvis_pls_comparison.png)
+> 📸 *PCA SCORE*
+> ![PCA-score](FINAL_fig7_PCA.png)
 
-> 📸 *VIP scores plot — add your screenshot here*
-> ![VIP Scores](screenshots/uvvis_vip_scores.png)
+> 📸 *VIP scores plot*
+> ![VIP Scores](FINAL_fig3_VIP.png)
 
 ---
 
