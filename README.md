@@ -1,5 +1,8 @@
-<h1 align="center">Data Analysis Portfolio</h1>
-<h3 align="center">Ubaid Ur Rahman — Analytical Data Analyst</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460,1A3A6B,00B4D8&height=200&section=header&text=Ubaid%20ur%20Rehman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Bachelor%20%C3%97%20Data%20Analysis%20%C3%97%20Google%20Certified&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ubaid-ur-rehman-chemist">
@@ -42,10 +45,40 @@ My background in analytical chemistry means I work with real, precise, and often
 ---
 
 ## Projects
-
 ---
+ 
+## 🚀 Featured Projects
+ 
+---
+ 
+### 1.📊 E-Commerce Profitability & Operational Efficiency Audit
+ 
+> *Business Intelligence · Excel Dashboarding · Data Storytelling*
+ 
+A structured BI audit of a 60-month, 138K-order e-commerce dataset answering **26 business questions** for CO & CFO level decision-making. Built a 10-sheet dark-theme Excel dashboard with 13 charts covering products, revenue, customers, acquisition channels, returns, and seasonal patterns.
+ 
+**Key Findings Uncovered:**
+- 🔴 Heavy discounts (>20%) destroy **21.5 percentage points** of profit margin — $15.8M lost per period
+- 🔴 Late delivery triggers a **22.83% return rate** vs 0% for on-time delivery
+- 💡 North region has the **highest CLV ($9,300+) and margin (48%)** but is severely underinvested
+- 💡 All top-10 profit customers are **'Loyal' type** — loyalty programme = highest LTV multiplier
+  
+| Deliverable | Description |
+|---|---|
+| [📊 `olivedd_dashboard.xlsx`](https://github.com/ur-chemist/E-Commerce-Profitability-Operational-Efficiency-Audit/blob/main/analysed_results.xlsx) | 10-sheet dark-theme BI dashboard · 13 charts · AutoFilter |
+| [📄 `olivedd_bi_report.docx`](https://github.com/ur-chemist/E-Commerce-Profitability-Operational-Efficiency-Audit/blob/main/insights/olivedd_bi_report.docx) | 26 Q&A answers · executive findings · strategic recommendations |
+ ---
+### Dashboard 
 
-## 1. 🌿 UV-Vis Pesticide Detection — Chemometric Data Analysis
+> 📸 *First-Page*
+> ![](https://github.com/ur-chemist/E-Commerce-Profitability-Operational-Efficiency-Audit/blob/main/insights/Dashboard.png)
+ ---
+[![Repo](https://img.shields.io/badge/View_Repo-0F3460?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ur-chemist/E-Commerce-Profitability-Operational-Efficiency-Audit)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle_Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+ ----
+## 2. 🌿 UV-Vis Pesticide Detection — Chemometric Data Analysis
 
 **Repository:** [uv-vis-pesticide-chemometrics](https://github.com/ur-chemist/uv-vis-pesticide-chemometrics)
 **Dataset DOI:** [10.5281/zenodo.21911163](https://doi.org/10.5281/zenodo.21911163)
@@ -83,7 +116,7 @@ signals from a complex, overlapping mixture?
 | Fluopyram | −0.004 | 0.41 | **0.597** |
 | Bromide | 0.31 | 0.58 | **0.627** |
 | Diflufenican | ~0.00 | ~0.00 | ~0.002 |
-| Mesosulfuron | — | — | — |
+
 
 **Key Finding:** Diflufenican is undetectable across all models — DOM matrix
 interference confirmed. VIP scores show only 202–300 nm contributes meaningfully
@@ -117,7 +150,7 @@ to the Fluopyram model.
 
 ---
 
-## 2. 🍷 Wine Quality — Data Analysis & Classification
+## 3. 🍷 Wine Quality — Data Analysis & Classification
 
 **Repository:** [wine-quality-chemometrics](https://github.com/ur-chemist/wine-quality-chemometrics)
 
@@ -178,46 +211,13 @@ the data pipeline, SQL workflow, and feature interpretation.
 > 📸 *Random Forest feature importance — add your screenshot here*
 > ![Feature Importance](screenshots/wine_feature_importance.png)
 
----
-
-## 3. 🛒 E-Commerce Sales Analysis *(In Progress)*
-
-**Dataset:** [E-Commerce Sales Analytics — Kaggle](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics)
-*(150,000+ transactions · 2021–2025 · Updated September 2026)*
-
-### Project Summary
-
-Analysing 150,000+ e-commerce transactions to answer real business questions
-about sales performance, customer behaviour, product profitability, and seasonal
-trends — using SQL for querying and Power BI for dashboards.
-
-### Questions I Am Answering
-
-- Which product categories generate the most revenue and profit?
-- Which months have the highest and lowest sales? (seasonal trends)
-- Do discounts increase revenue or hurt profit margins?
-- Which customer segments have the highest return rates?
-- What are the top 10 products by profit margin?
-
-### Planned Deliverables
-
-- [ ] SQL queries for all 5 business questions
-- [ ] Excel pivot table summary
-- [ ] Power BI dashboard with KPI cards and filters
-- [ ] Written findings — plain English, no jargon
-
-### Tools
-
-`SQL` `Excel` `Power BI`
-
----
 
 ## Certifications
 
 | Certificate | Issuer | Completed | Verify |
 |---|---|---|---|
 | Google Data Analytics Professional | Google / Coursera | Dec 1, 2025 | [Verify](https://coursera.org/verify/professional-cert/98TNBN2M2XU6) |
-| Google IT Support | Google / Coursera | 2025 | — |
+| Google IT Support | Google / Coursera | 2025 | [verify](https://coursera.org/share/623d73057fa984be82c963f0b936020e) |
 
 ---
 
@@ -233,3 +233,8 @@ I am open to **remote Data Analyst roles and freelance projects**.
 | 🎯 Kaggle | [ubaidurrehmanthaheem](https://www.kaggle.com/ubaidurrehmanthaheem) |
 
 <p align="center">Made from Bahawalnagar, Pakistan 🇵🇰</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Final-Year+BS+Chemistry+%E2%80%94+CGPA+3.84%2F4.0;Data+Analysis+%7C+Chemometrics+%7C+BI+Dashboards;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;CM+Honhaar+Scholar)](https://git.io/typing-svg)
+
+</div>
